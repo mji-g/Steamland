@@ -1,0 +1,14 @@
+{
+  "name": "discord-github-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to fetch the latest GitHub commits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.6"
+  }
+}
